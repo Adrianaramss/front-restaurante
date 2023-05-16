@@ -60,12 +60,20 @@ export const Header = styled.header`
     font-size: 18px;
     line-height: 25px;
     color: #fff;
-    margin-right: 10px; 
+    margin-right: 45px; 
     cursor: pointer;
   }
 
   img {
     cursor: pointer;
+  }
+  h4{
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    color: #fff;
+    margin-right: 3px; 
+    cursor: pointer; 
   }
 `;
 

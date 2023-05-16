@@ -69,6 +69,9 @@ export const Agendamento = () => {
         <h3 onClick={() => goToGerenciamentoPage(navigate)} style={{ cursor: "pointer" }}>
           Minhas reservas
         </h3>
+        <h4>
+        Sair
+        </h4>
         <img src={sair} alt="sair" width="30px" onClick={() => goToLoginPage(navigate)} style={{ cursor: "pointer" }} />
       </Header>
       <h1>Faça seu agendamento aqui!</h1>
