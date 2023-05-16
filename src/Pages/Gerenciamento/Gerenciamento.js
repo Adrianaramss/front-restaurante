@@ -34,6 +34,9 @@ export const Gerenciamento = () => {
         <h3 onClick={() => goToAgendamentoPage(navigate)} style={{ cursor: "pointer" }}>
           voltar para agendamento
         </h3>
+        <h4>
+        Sair
+        </h4>
         <img src={sair} alt="sair" width="30px" onClick={() => goToLoginPage(navigate)} style={{ cursor: "pointer" }} />
 
       </Header>
