@@ -9,9 +9,9 @@ O objetivo do Projeto Restaurante é proporcionar aos clientes uma experiência 
 
 - Tela de login e cadastro
 
-<div align="left" > 
-  <img height="500" src="https://github.com/Adrianaramss/front-resta/assets/111310311/a2f42b79-5adb-424f-b244-8c572ecdac66png"/>
-  <img height="500" src="https://github.com/Adrianaramss/front-resta/assets/111310311/10759ce6-fe70-4d74-9336-54a91061e2b2png"/>
+<div align="left"   > 
+  <img height="500" src="https://github.com/Adrianaramss/front-restaurante/assets/111310311/e153eec9-0148-4358-aaa1-8b7974a8b852"/>
+  <img height="500" src="https://github.com/Adrianaramss/front-restaurante/assets/111310311/ad08c5ef-5f65-4fd7-acba-9d2cbac0255e"/>
 
 
   </div>
@@ -20,12 +20,10 @@ O objetivo do Projeto Restaurante é proporcionar aos clientes uma experiência 
   - Tela de agendamento e gerenciamento de reservas 
   
 <div align="left" > 
-<img height="500" src="https://github.com/Adrianaramss/front-resta/assets/111310311/efbe0438-21c7-4467-9359-206d9cd5086apng"/>
-<img height="500" src="https://github.com/Adrianaramss/front-resta/assets/111310311/18aa859e-bc03-4ddc-87ea-6e19167a9ed6png"/>
+<img height="500" src="https://github.com/Adrianaramss/front-restaurante/assets/111310311/4865d18c-9487-441b-829a-65b068d2b04e"/>
+<img height="500" src="https://github.com/Adrianaramss/front-restaurante/assets/111310311/ef4f269d-faa0-400b-8153-b20b953ffa6e"/>
 
-  
 
-  
   </div>
 
 
