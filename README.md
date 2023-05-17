@@ -59,7 +59,7 @@ axios
 ### Instalando
 ```bash
 # Clone repositório
-git clone https://github.com/Adrianaramss/front-resta.git
+git clone https://github.com/Adrianaramss/front-restaurante.git
 
 # Instalando dependências
 npm install
