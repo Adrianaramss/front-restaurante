@@ -50,9 +50,9 @@ axios
 
 
 # 🔗 Deploy projeto
-- Deploy Vercel: [clique aqui!](https://projeto-restaurante-zeta.vercel.app/)
+- Deploy Vercel: [Clique aqui!](https://projeto-restaurante-zeta.vercel.app/)
 
-- Repositório Back-end
+- Repositório Back-end:
 [Clique aqui!](https://github.com/Adrianaramss/Back-restaurante)
 
 # 🛰Executar o projeto localmente
