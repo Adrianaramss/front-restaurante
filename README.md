@@ -24,8 +24,9 @@ O objetivo do Projeto Restaurante é proporcionar aos clientes uma experiência 
 
   </div>
 
-
-
+# Conta para teste 
+- maria@gmail.com
+- senha123
 # 💻 Tecnologias utilizadas no Projeto
 
 - JavaScript
