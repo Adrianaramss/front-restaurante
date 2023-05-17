@@ -54,7 +54,7 @@ axios
 ### Instalando
 ```bash
 # Clone repositório
-git clone https://github.com/Adrianaramss/colab-teste.git
+git clone https://github.com/Adrianaramss/front-resta.git
 
 # Instalando dependências
 npm install
